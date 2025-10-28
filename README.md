@@ -1,2 +1,3 @@
-"# python-homework" 
-"# python-homework" 
+# Python programm
+
+## นายพิทักษ์ แสงลอย รหัสนักศึกษา 6812732117
